@@ -1,2 +1,4 @@
-# gecotron.github.io
-Personal Website
+# Personal Website
+
+Personal Website/Portfolio  
+Contains projects, trinkets and thoughts
